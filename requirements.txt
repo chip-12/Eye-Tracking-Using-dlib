@@ -2,5 +2,5 @@ streamlit
 opencv-python-headless
 numpy
 pyautogui
-dlib
+dlib==19.22.1
 imutils
